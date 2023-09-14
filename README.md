@@ -78,10 +78,6 @@ The frontend will run on port `5173`.
 
 Open your browser and navigate to http://localhost:5173
 
-## Contributing
-
-Contributions are welcome! To contribute, please fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
